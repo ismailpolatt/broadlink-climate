@@ -1,0 +1,10 @@
+{
+  "domain": "oturma_klima",
+  "name": "Oturma Klima",
+  "codeowners": ["@ismailpolatt"],
+  "documentation": "https://github.com/ismailpolatt/broadlink-climate",
+  "issue_tracker": "https://github.com/ismailpolatt/broadlink-climate/issues",
+  "dependencies": ["remote"],
+  "version": "1.0.0",
+  "iot_class": "local_polling"
+}
